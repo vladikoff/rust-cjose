@@ -1,0 +1,3 @@
+libcjose_la-version.lo: version.c ../include/cjose/version.h
+
+../include/cjose/version.h:
